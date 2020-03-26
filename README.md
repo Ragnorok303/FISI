@@ -2,7 +2,7 @@
 
 ## Clayton Hill, Lee Hawkins, and Jason Tompkins
 
-### Link to the app ( https://ragnorok303.github.io/FISI/)
+### Link to the app (https://ragnorok303.github.io/Find-It-Stream-It/)
 
 ## Search your movie you want to watch and the platform you want to stream from.
 
